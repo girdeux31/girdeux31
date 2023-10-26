@@ -6,7 +6,7 @@
   <li>❤️ I love Python, stupid programming and data ethics</li>
   <li>🌱 I'm currently exploring new paths in life, working with Python and ML</li>
   <li>👀 I’m looking to collaborate on any project related with my interests</li>
-  <li>📧 Send an email to mesado31@gmail.com to reach me </li>
+  <li>📧 Send me an email to mesado31@gmail.com to reach me </li>
 </ul>
 
 <h3 align="left">Languages and Tools:</h3>
