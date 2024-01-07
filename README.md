@@ -2,7 +2,7 @@
 
 <ul>
   <li>👋 I’m @girdeux31 on github and @cmesado on Twitter</li>
-  <li>📊 I'm a Data Scientist, Programmer and PhD in nuclear technology</li>  
+  <li>📊 I'm a Data Scientist, Developer and PhD in nuclear technology</li>  
   <li>❤️ I love Python, stupid programming and data ethics</li>
   <li>🌱 I'm currently exploring new paths in life, working with Python and ML</li>
   <li>👀 I’m looking to collaborate on any project related with my interests</li>
